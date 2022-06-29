@@ -4,13 +4,9 @@
 
 from setuptools import setup, find_packages
 
-setup(name="pig",
+setup(name="pytorch_tabnet",
 	version="0.1",
 	description="Test for pip install git+",
-	url="",
+	url="https://github.com/kazu1999/tabnet3",
 	packages=find_packages(),
-	entry_points="""
-	[console_scripts]
-	pig = pig.pig:main
-	""",
 	)
