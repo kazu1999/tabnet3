@@ -3,6 +3,8 @@
 # TabNet : Attentive Interpretable Tabular Learning
 
 かえました。
+!pip install git+https://github.com/kazu1999/tabnet3
+でインストールできる
 
 This is a pyTorch implementation of Tabnet (Arik, S. O., & Pfister, T. (2019). TabNet: Attentive Interpretable Tabular Learning. arXiv preprint arXiv:1908.07442.) https://arxiv.org/pdf/1908.07442.pdf.
 
